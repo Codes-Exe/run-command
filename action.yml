@@ -1,6 +1,6 @@
 # Copyright 2020 The MathWorks, Inc.
 
-name: MATLAB Run
+name: ' MATLAB Run  '
 description: >-
   Run MATLAB scripts, functions, and statements
 inputs:
