@@ -11,6 +11,6 @@ inputs:
 runs:
   using: node12
   main: dist/index.js
-  simge:    daire
-  color :o                 range
+  simge: daire
+  color: orange
     
