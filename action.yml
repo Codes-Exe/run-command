@@ -1,6 +1,6 @@
 # Copyright 2020 The MathWorks, Inc.
 
-name: MATLAB CLI
+name: MATLAB rUN
 description: >-
   Run MATLAB scripts, functions, and statements
 inputs:
