@@ -11,5 +11,5 @@ inputs:
 runs:
   using: node12
   main: dist/index.js
-  simge:  activity
-  renk : orange 
+  simge:  
+  color :
