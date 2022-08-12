@@ -1,6 +1,6 @@
 # Copyright 2020 The MathWorks, Inc.
 
-name: Run MATLAB Command
+name: Run MATLAB CLI
 description: >-
   Run MATLAB scripts, functions, and statements
 inputs:
